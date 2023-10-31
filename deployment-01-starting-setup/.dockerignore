@@ -1,0 +1,4 @@
+## ignora os arquivos abaixo pra fim de segurança
+node_modules
+Dockerfile
+*.pem
